@@ -9,3 +9,4 @@ Basic arithmetic operations: addition, subtraction, multiplication, and division
 - Toggle sign function.
 - Percentage function.
 - Responsive and visually appealing design.
+- localsotrage to store the last result.
